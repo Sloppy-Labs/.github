@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./logo.png" width="112" alt="Sloppy Labs logo">
-
 # Sloppy Labs
 
 **Carefully crafted. Fast, focused software with less overhead.**
