@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="112" alt="Sloppy Labs logo">
+<img src="./logo.png" width="112" alt="Sloppy Labs logo">
 
 # Sloppy Labs
 
